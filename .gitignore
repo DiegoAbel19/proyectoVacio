@@ -1,0 +1,22 @@
+# draw.io: archivos de respaldo y temporales
+*.drawio.bak
+*.drawio.bkp
+*.drawio.tmp
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Editores
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# Dependencias (por si se agrega código más adelante)
+node_modules/
+__pycache__/
+*.pyc
+
+# Exportes temporales
+~$*
